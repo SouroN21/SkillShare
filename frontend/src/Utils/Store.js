@@ -17,5 +17,5 @@ const state = proxy({
   updateSkillPlanOpened: false, // To track if the "update skill plan" modal is open
   selectedSkillPlanToUpdate: null, // Store selected skill plan to update
 });
-
+ 
 export default state;
